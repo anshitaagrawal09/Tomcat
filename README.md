@@ -1,6 +1,8 @@
 # Tomcat
-Create a simple Login with predefined user
+Create a simple Login with predefined user 
+
 Extend the Servlet to accept a valid Name - Name starts with Cap and has minimum 3 characters
+
 Extend the Servlet to accept a valid Password - 
 Rule1 – minimum 8 Characters
 Rule2 – Should have at least 1 UpperCase
